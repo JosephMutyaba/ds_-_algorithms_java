@@ -1,0 +1,112 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "quicksort2",
+            "request": "launch",
+            "mainClass": "quicksort2",
+            "projectName": "DataStructuresAlgo_1496da6f"
+        },
+        {
+            "type": "java",
+            "name": "QuickSort",
+            "request": "launch",
+            "mainClass": "QuickSort",
+            "projectName": "DataStructuresAlgo_1496da6f"
+        },
+        {
+            "type": "java",
+            "name": "mergeSortPrac2",
+            "request": "launch",
+            "mainClass": "mergeSortPrac2",
+            "projectName": "DataStructuresAlgo_1496da6f"
+        },
+        {
+            "type": "java",
+            "name": "MergeSort",
+            "request": "launch",
+            "mainClass": "MergeSort",
+            "projectName": "DataStructuresAlgo_1496da6f"
+        },
+        {
+            "type": "java",
+            "name": "recursion",
+            "request": "launch",
+            "mainClass": "recursion",
+            "projectName": "DataStructuresAlgo_1496da6f"
+        },
+        {
+            "type": "java",
+            "name": "InsertionSort",
+            "request": "launch",
+            "mainClass": "InsertionSort",
+            "projectName": "DataStructuresAlgo_1496da6f"
+        },
+        {
+            "type": "java",
+            "name": "Selection_sort",
+            "request": "launch",
+            "mainClass": "Selection_sort",
+            "projectName": "DataStructuresAlgo_1496da6f"
+        },
+        {
+            "type": "java",
+            "name": "Bubble_sort",
+            "request": "launch",
+            "mainClass": "Bubble_sort",
+            "projectName": "DataStructuresAlgo_1496da6f"
+        },
+        {
+            "type": "java",
+            "name": "Interpolation_search",
+            "request": "launch",
+            "mainClass": "Interpolation_search",
+            "projectName": "DataStructuresAlgo_1496da6f"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearchAl",
+            "request": "launch",
+            "mainClass": "BinarySearchAl",
+            "projectName": "DataStructuresAlgo_1496da6f"
+        },
+        {
+            "type": "java",
+            "name": "PriorityQueues",
+            "request": "launch",
+            "mainClass": "PriorityQueues",
+            "projectName": "DataStructuresAlgo_1496da6f"
+        },
+        {
+            "type": "java",
+            "name": "Queues",
+            "request": "launch",
+            "mainClass": "Queues",
+            "projectName": "DataStructuresAlgo_1496da6f"
+        },
+        {
+            "type": "java",
+            "name": "Stacks",
+            "request": "launch",
+            "mainClass": "Stacks",
+            "projectName": "DataStructuresAlgo_1496da6f"
+        },
+        {
+            "type": "java",
+            "name": "linear_search",
+            "request": "launch",
+            "mainClass": "linear_search",
+            "projectName": "DataStructuresAlgo_1496da6f"
+        }
+    ]
+}
