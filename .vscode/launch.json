@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Hash_table",
+            "request": "launch",
+            "mainClass": "Hash_table",
+            "projectName": "DataStructuresAlgo_1496da6f"
+        },
+        {
+            "type": "java",
             "name": "quicksort2",
             "request": "launch",
             "mainClass": "quicksort2",
